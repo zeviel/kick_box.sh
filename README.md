@@ -3,7 +3,6 @@ Web-API for [open.kickbox.com](https://open.kickbox.com) which provides a free, 
 
 ## Example
 ```bash
-source kick_box.sh
-
+source ./kick_box.sh
 check_domain "domain"
 ```
